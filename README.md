@@ -2,8 +2,7 @@
 TALLER 1
 
 
-
-              INTEGRANTES :
+ INTEGRANTES :
 
 Zaidy Guadalupe Tobar Granados - TG220840
 
